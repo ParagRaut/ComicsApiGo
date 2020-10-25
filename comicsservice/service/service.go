@@ -51,7 +51,6 @@ func scrapeWebPage() string {
 	return comicURL
 }
 
-//RandomDate mahol hai
 func randomDate() string {
 
 	minDate := time.Date(1978, 6, 19, 0, 0, 0, 0, time.UTC).Unix()

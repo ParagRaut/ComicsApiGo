@@ -1,6 +1,5 @@
-# comicsApiGo
-It's example implementation of garfield comic api in Go
+# ComicsApi in Golang
 
-It uses PuerkitoBio/goquery for web scraping and Gin-Gonic to server http request
+It's example implementation of garfield comic api in Go.
 
 To run this project go to src/ and run go run ./

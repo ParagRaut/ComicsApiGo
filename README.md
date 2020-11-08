@@ -8,5 +8,5 @@ To run this project:
 
 ```zsh
 cd src
-go run ./
+go run .
 ```

@@ -9,7 +9,7 @@ func main() {
 
 	r.GET("/getComic", func(c *gin.Context) {
 		c.JSON(200, gin.H{
-			"comicURL": GetComicURL(),
+			"comicURL": getComicURL(),
 		})
 	})
 

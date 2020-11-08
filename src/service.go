@@ -10,8 +10,7 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-//GetComicURL Test comment
-func GetComicURL() string {
+func getComicURL() string {
 
 	return scrapeWebPage()
 }
